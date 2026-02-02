@@ -1,6 +1,6 @@
 # notes
 
-This is the new (canonical?) version of my notes
+This is the new (canonical?) version of my notes. It's on Github but hopefully we move it to Gitlab or somewhere eventually.
 
 ## New with this release:
 - Notes are public by default
