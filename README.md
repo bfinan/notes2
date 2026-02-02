@@ -1,4 +1,10 @@
-# soka
-This is the official Github repository for Soka. Soka is the [Golden Rule](https://en.wikipedia.org/wiki/Golden_Rule) licensed under the GNU General Public License ("the GPL").
+# notes
 
-Software is Soka if it implements the Golden Rule and is licensed under the GPL. If either of those is untrue, that software is not Soka.
+This is the new (canonical?) version of my notes
+
+## New with this release:
+- Notes are public by default
+- Soka-compliant (GPLv3 + The Golden Rule)
+- Target editor is GNU Emacs (formerly it was Obsidian)
+
+This is a public repository of free software! Second most important rule is to have fun.
